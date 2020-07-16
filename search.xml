@@ -138,22 +138,6 @@
       </tags>
   </entry>
   <entry>
-    <title>MATLAB账户未关联到许可证—无法打开help文档—解决方法</title>
-    <url>/MATLAB%E8%B4%A6%E6%88%B7%E6%9C%AA%E5%85%B3%E8%81%94%E5%88%B0%E8%AE%B8%E5%8F%AF%E8%AF%81%E2%80%94%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80help%E6%96%87%E6%A1%A3%E2%80%94%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.html</url>
-    <content><![CDATA[<p>今天在使用help命令时，需要参阅一些函数的help文档，却发现我的matlab无法关联到许可证<br><img src="https://img-blog.csdnimg.cn/20200211154400903.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
-<a id="more"></a>
-<p>对于一些朋友，只需要在命令行输入‘license’便可得到许可证编号。但我的matlab是破解版的，所以没有许可证。</p>
-<p>再参阅的国外论坛后，找到了解决方法。<br>下面就教大家如何解决：<br><img src="https://img-blog.csdnimg.cn/20200211154735579.png" alt="在这里插入图片描述"><br>点击‘预设项’—‘帮助’<br><img src="https://img-blog.csdnimg.cn/20200211155006810.png" alt="在这里插入图片描述"></p>
-<p>选择‘安装在本地’—‘在小窗口中’<br><img src="https://img-blog.csdnimg.cn/20200211155132806.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>即可解决问题，方法简单，只供破解版用户参阅。<br>有问题可联系我。</p>
-]]></content>
-      <categories>
-        <category>MATLAB</category>
-      </categories>
-      <tags>
-        <tag>MATLAB</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>MATLAB自适应直方图均衡—adapthisteq</title>
     <url>/MATLAB%E8%87%AA%E9%80%82%E5%BA%94%E7%9B%B4%E6%96%B9%E5%9B%BE%E5%9D%87%E8%A1%A1%E2%80%94adapthisteq.html</url>
     <content><![CDATA[<p>今天写调用摄像头处理图像函数，用到了adapthisteq函数，顺便对adapthisteq函数做了一些总结。</p>
@@ -186,6 +170,22 @@
       </tags>
   </entry>
   <entry>
+    <title>MATLAB账户未关联到许可证—无法打开help文档—解决方法</title>
+    <url>/MATLAB%E8%B4%A6%E6%88%B7%E6%9C%AA%E5%85%B3%E8%81%94%E5%88%B0%E8%AE%B8%E5%8F%AF%E8%AF%81%E2%80%94%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80help%E6%96%87%E6%A1%A3%E2%80%94%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.html</url>
+    <content><![CDATA[<p>今天在使用help命令时，需要参阅一些函数的help文档，却发现我的matlab无法关联到许可证<br><img src="https://img-blog.csdnimg.cn/20200211154400903.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+<a id="more"></a>
+<p>对于一些朋友，只需要在命令行输入‘license’便可得到许可证编号。但我的matlab是破解版的，所以没有许可证。</p>
+<p>再参阅的国外论坛后，找到了解决方法。<br>下面就教大家如何解决：<br><img src="https://img-blog.csdnimg.cn/20200211154735579.png" alt="在这里插入图片描述"><br>点击‘预设项’—‘帮助’<br><img src="https://img-blog.csdnimg.cn/20200211155006810.png" alt="在这里插入图片描述"></p>
+<p>选择‘安装在本地’—‘在小窗口中’<br><img src="https://img-blog.csdnimg.cn/20200211155132806.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>即可解决问题，方法简单，只供破解版用户参阅。<br>有问题可联系我。</p>
+]]></content>
+      <categories>
+        <category>MATLAB</category>
+      </categories>
+      <tags>
+        <tag>MATLAB</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Matlab如何打开c++文件</title>
     <url>/Matlab%E5%A6%82%E4%BD%95%E6%89%93%E5%BC%80c++%E6%96%87%E4%BB%B6.html</url>
     <content><![CDATA[<p>最近在尝试视觉分析的项目</p>
@@ -206,25 +206,6 @@
       </categories>
       <tags>
         <tag>MATLAB</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ModuleNotFoundError：No module named “ckeditor”</title>
-    <url>/ModuleNotFoundError%EF%BC%9ANo%20module%20named%20%E2%80%9Cckeditor%E2%80%9D.html</url>
-    <content><![CDATA[<p><img src="https://img-blog.csdnimg.cn/20200518195810898.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
-<a id="more"></a>
-<p>我使用 <code>pip3 install ckeditor Collecting ckeditor</code> 安装也报错</p>
-<p>解决方法：<code>pip3 install django-ckeditor
-Collecting django-ckeditor</code></p>
-<p><img src="https://img-blog.csdnimg.cn/20200518195956173.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
-]]></content>
-      <categories>
-        <category>python</category>
-        <category>error&amp;库</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
-        <tag>error&amp;库</tag>
       </tags>
   </entry>
   <entry>
@@ -250,6 +231,25 @@ Did you mean &#39;conda create&#39;?</code></p>
 <p><img src="https://img-blog.csdnimg.cn/20200315230444682.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
 <p><strong>等待直到下载成功</strong></p>
 <p><img src="https://img-blog.csdnimg.cn/20200315230542856.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+]]></content>
+      <categories>
+        <category>python</category>
+        <category>error&amp;库</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+        <tag>error&amp;库</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ModuleNotFoundError：No module named “ckeditor”</title>
+    <url>/ModuleNotFoundError%EF%BC%9ANo%20module%20named%20%E2%80%9Cckeditor%E2%80%9D.html</url>
+    <content><![CDATA[<p><img src="https://img-blog.csdnimg.cn/20200518195810898.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+<a id="more"></a>
+<p>我使用 <code>pip3 install ckeditor Collecting ckeditor</code> 安装也报错</p>
+<p>解决方法：<code>pip3 install django-ckeditor
+Collecting django-ckeditor</code></p>
+<p><img src="https://img-blog.csdnimg.cn/20200518195956173.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
 ]]></content>
       <categories>
         <category>python</category>
@@ -534,6 +534,28 @@ Did you mean &#39;conda create&#39;?</code></p>
       </tags>
   </entry>
   <entry>
+    <title>Python学习笔记_5：字符串格式化符号及进制转换</title>
+    <url>/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_5%EF%BC%9A%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A0%BC%E5%BC%8F%E5%8C%96%E7%AC%A6%E5%8F%B7%E5%8F%8A%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2.html</url>
+    <content><![CDATA[<p>介绍下经常用得到的格式化字符</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">%c	：格式化字符及其ASCII码</span><br><span class="line">%s	：格式化字符串</span><br><span class="line">%d	：格式化整数</span><br><span class="line">%f	：可指定小数点精度</span><br><span class="line">%e	：用科学计数法表示小数</span><br><span class="line">%g	：根据值的的具体情况使用%f或%e</span><br><span class="line">%o	：八进制</span><br><span class="line">%x	：十六进制</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+<hr>
+<p>简单的进制转换：<br>1、十六进制转换</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>I = input(<span class="string">'请输入一个数'</span>)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>I = int(I)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(<span class="string">'%x'</span> %I)</span><br></pre></td></tr></table></figure>
+<p>2、八进制转换</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">I = input(<span class="string">'请输入一个数'</span>)</span><br><span class="line">I = int(I)</span><br><span class="line">print(<span class="string">'%o'</span> %I)</span><br></pre></td></tr></table></figure>
+<p>3、二进制转换</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">%%% python 中的二进制可以直接用 bin() 函数处理</span><br><span class="line">I = input(<span class="string">'请输入一个数'</span>)</span><br><span class="line">I = int(I)</span><br><span class="line">print(bin(I))</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>python</category>
+        <category>语法笔记</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+        <tag>语法笔记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Python学习笔记_4列表和元组的区别</title>
     <url>/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_4%EF%BC%9A%E5%88%97%E8%A1%A8%E5%92%8C%E5%85%83%E7%BB%84%E7%9A%84%E5%8C%BA%E5%88%AB.html</url>
     <content><![CDATA[<p>上节我主要详细的介绍了一下列表的用法</p>
@@ -568,18 +590,24 @@ Did you mean &#39;conda create&#39;?</code></p>
       </tags>
   </entry>
   <entry>
-    <title>Python学习笔记_5：字符串格式化符号及进制转换</title>
-    <url>/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_5%EF%BC%9A%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A0%BC%E5%BC%8F%E5%8C%96%E7%AC%A6%E5%8F%B7%E5%8F%8A%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2.html</url>
-    <content><![CDATA[<p>介绍下经常用得到的格式化字符</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">%c	：格式化字符及其ASCII码</span><br><span class="line">%s	：格式化字符串</span><br><span class="line">%d	：格式化整数</span><br><span class="line">%f	：可指定小数点精度</span><br><span class="line">%e	：用科学计数法表示小数</span><br><span class="line">%g	：根据值的的具体情况使用%f或%e</span><br><span class="line">%o	：八进制</span><br><span class="line">%x	：十六进制</span><br></pre></td></tr></table></figure>
+    <title>Python学习笔记_7：index() 和 dict() 的用法详解</title>
+    <url>/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_7%EF%BC%9Aindex()%20%E5%92%8C%20dict()%20%E7%9A%84%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3.html</url>
+    <content><![CDATA[<p>前面的笔记中我详细介绍了列表和元组</p>
+<p><strong>当我们需要列表中某一元素的相应位置时</strong></p>
+<p>就要提到 <strong>index()</strong> 这个神奇的函数了</p>
+<h2 id="混讲一下-index-和-dict"><a href="#混讲一下-index-和-dict" class="headerlink" title="混讲一下 index() 和 dict()"></a>混讲一下 index() 和 dict()</h2><p><strong>1、index() 的简单用法：</strong></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>I = [<span class="string">'东北大鹌鹑'</span>,<span class="string">'周淑怡'</span>,<span class="string">'刘某人'</span>,<span class="string">'胡歌'</span>]</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(I.index(<span class="string">'胡歌'</span>))</span><br><span class="line"><span class="number">3</span></span><br></pre></td></tr></table></figure>
 <a id="more"></a>
-<hr>
-<p>简单的进制转换：<br>1、十六进制转换</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>I = input(<span class="string">'请输入一个数'</span>)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>I = int(I)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(<span class="string">'%x'</span> %I)</span><br></pre></td></tr></table></figure>
-<p>2、八进制转换</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">I = input(<span class="string">'请输入一个数'</span>)</span><br><span class="line">I = int(I)</span><br><span class="line">print(<span class="string">'%o'</span> %I)</span><br></pre></td></tr></table></figure>
-<p>3、二进制转换</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">%%% python 中的二进制可以直接用 bin() 函数处理</span><br><span class="line">I = input(<span class="string">'请输入一个数'</span>)</span><br><span class="line">I = int(I)</span><br><span class="line">print(bin(I))</span><br></pre></td></tr></table></figure>]]></content>
+<p>所以 index 可以直接输出该元素的位置。</p>
+<p><strong>2、今天要说的 index() 的用法跟 dict() 函数有点关系，index 在有时候可以代替 dict 函数去实现字典的功能：</strong></p>
+<p><strong>先简单介绍一下 dict() 函数：</strong></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment">###首先我给四人每个人一个定义###</span></span><br><span class="line">%东北大鹌鹑--&gt;小胖子</span><br><span class="line">%周淑怡------&gt;大美女</span><br><span class="line">%刘某人------&gt;反向抽烟</span><br><span class="line">%胡歌--------&gt;艺术家</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>I = dict(((<span class="string">'东北大鹌鹑'</span>,<span class="string">'小胖子'</span>),(<span class="string">'周淑怡'</span>,<span class="string">'大美女'</span>),\</span><br><span class="line">			 (<span class="string">'刘某人'</span>,<span class="string">'反向抽烟'</span>),(<span class="string">'胡歌'</span>,<span class="string">'艺术家'</span>)))</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(I[<span class="string">'周淑怡'</span>])</span><br><span class="line">大美女</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(I[<span class="string">'刘某人'</span>])</span><br><span class="line">反向抽烟</span><br></pre></td></tr></table></figure>
+<p>所以 dict ( obj ) 会返回 obj 的定义</p>
+<p><strong>3、用 index() 来实现上述操作：</strong></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>people = [<span class="string">'东北大鹌鹑'</span>,<span class="string">'周淑怡'</span>,<span class="string">'刘某人'</span>,<span class="string">'胡歌'</span>]</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>mapping = [<span class="string">'小胖子'</span>,<span class="string">'大美女'</span>,<span class="string">'反向抽烟'</span>,<span class="string">'艺术家'</span>]</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(<span class="string">'周淑怡是%s'</span> %(mapping[people.index(<span class="string">'周淑怡'</span>)]))</span><br><span class="line">周淑怡是大美女</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(<span class="string">'胡歌是%s'</span> %(mapping[people.index(<span class="string">'胡歌'</span>)]))</span><br><span class="line">胡歌是艺术家</span><br></pre></td></tr></table></figure>
+
+<p><strong>总结：</strong><br>本来是想把 dict() 函数单独详细的说一下，但是写文章的时候突然想起来 index() 在这种情况下可以代替 dict() 的用法，而且 dict() 也比较简单，就在这里一起介绍了。</p>
+]]></content>
       <categories>
         <category>python</category>
         <category>语法笔记</category>
@@ -606,34 +634,6 @@ Did you mean &#39;conda create&#39;?</code></p>
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>I = <span class="string">'东北大鹌鹑'</span></span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span><span class="function"><span class="keyword">def</span> <span class="title">fun</span><span class="params">()</span>:</span></span><br><span class="line">    	I = <span class="string">'PDD'</span></span><br><span class="line">    	<span class="function"><span class="keyword">def</span> <span class="title">function</span><span class="params">()</span>:</span></span><br><span class="line">	        <span class="keyword">nonlocal</span> I</span><br><span class="line">        	I = <span class="string">'周淑怡'</span></span><br><span class="line">        	print(I)</span><br><span class="line">    	function()</span><br><span class="line">    	print(I)</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>fun()</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(I)</span><br><span class="line">%输出为</span><br><span class="line">周淑怡</span><br><span class="line">周淑怡</span><br><span class="line">东北大鹌鹑</span><br></pre></td></tr></table></figure>
 <p>PDD：你怎么把我给整没了呢？？？<br><img src="https://img-blog.csdnimg.cn/20200306152038752.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>哈哈哈哈，皮一下<br><img src="https://img-blog.csdnimg.cn/20200306152417290.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>从上面的例子可以看到：</p>
 <p>我们一般在某函数的内部函数中使用 nonlocal 函数来修改这个函数的局部变量，而不会改变整个代码的全局变量，nonlocal 用途还算比较广泛的。</p>
-]]></content>
-      <categories>
-        <category>python</category>
-        <category>语法笔记</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
-        <tag>语法笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Python学习笔记_7：index() 和 dict() 的用法详解</title>
-    <url>/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_7%EF%BC%9Aindex()%20%E5%92%8C%20dict()%20%E7%9A%84%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3.html</url>
-    <content><![CDATA[<p>前面的笔记中我详细介绍了列表和元组</p>
-<p><strong>当我们需要列表中某一元素的相应位置时</strong></p>
-<p>就要提到 <strong>index()</strong> 这个神奇的函数了</p>
-<h2 id="混讲一下-index-和-dict"><a href="#混讲一下-index-和-dict" class="headerlink" title="混讲一下 index() 和 dict()"></a>混讲一下 index() 和 dict()</h2><p><strong>1、index() 的简单用法：</strong></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>I = [<span class="string">'东北大鹌鹑'</span>,<span class="string">'周淑怡'</span>,<span class="string">'刘某人'</span>,<span class="string">'胡歌'</span>]</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(I.index(<span class="string">'胡歌'</span>))</span><br><span class="line"><span class="number">3</span></span><br></pre></td></tr></table></figure>
-<a id="more"></a>
-<p>所以 index 可以直接输出该元素的位置。</p>
-<p><strong>2、今天要说的 index() 的用法跟 dict() 函数有点关系，index 在有时候可以代替 dict 函数去实现字典的功能：</strong></p>
-<p><strong>先简单介绍一下 dict() 函数：</strong></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment">###首先我给四人每个人一个定义###</span></span><br><span class="line">%东北大鹌鹑--&gt;小胖子</span><br><span class="line">%周淑怡------&gt;大美女</span><br><span class="line">%刘某人------&gt;反向抽烟</span><br><span class="line">%胡歌--------&gt;艺术家</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>I = dict(((<span class="string">'东北大鹌鹑'</span>,<span class="string">'小胖子'</span>),(<span class="string">'周淑怡'</span>,<span class="string">'大美女'</span>),\</span><br><span class="line">			 (<span class="string">'刘某人'</span>,<span class="string">'反向抽烟'</span>),(<span class="string">'胡歌'</span>,<span class="string">'艺术家'</span>)))</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(I[<span class="string">'周淑怡'</span>])</span><br><span class="line">大美女</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(I[<span class="string">'刘某人'</span>])</span><br><span class="line">反向抽烟</span><br></pre></td></tr></table></figure>
-<p>所以 dict ( obj ) 会返回 obj 的定义</p>
-<p><strong>3、用 index() 来实现上述操作：</strong></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>people = [<span class="string">'东北大鹌鹑'</span>,<span class="string">'周淑怡'</span>,<span class="string">'刘某人'</span>,<span class="string">'胡歌'</span>]</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>mapping = [<span class="string">'小胖子'</span>,<span class="string">'大美女'</span>,<span class="string">'反向抽烟'</span>,<span class="string">'艺术家'</span>]</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(<span class="string">'周淑怡是%s'</span> %(mapping[people.index(<span class="string">'周淑怡'</span>)]))</span><br><span class="line">周淑怡是大美女</span><br><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(<span class="string">'胡歌是%s'</span> %(mapping[people.index(<span class="string">'胡歌'</span>)]))</span><br><span class="line">胡歌是艺术家</span><br></pre></td></tr></table></figure>
-
-<p><strong>总结：</strong><br>本来是想把 dict() 函数单独详细的说一下，但是写文章的时候突然想起来 index() 在这种情况下可以代替 dict() 的用法，而且 dict() 也比较简单，就在这里一起介绍了。</p>
 ]]></content>
       <categories>
         <category>python</category>
@@ -848,41 +848,6 @@ Did you mean &#39;conda create&#39;?</code></p>
       </tags>
   </entry>
   <entry>
-    <title>anaconda安装 pytorch——详解</title>
-    <url>/anaconda%E5%AE%89%E8%A3%85%20pytorch%E2%80%94%E2%80%94%E8%AF%A6%E8%A7%A3.html</url>
-    <content><![CDATA[<h2 id="事件前言："><a href="#事件前言：" class="headerlink" title="事件前言："></a>事件前言：</h2><p>今天凌晨2点多时清华镜像源还可以正常使用，但是刚刚我电脑却使用不了了</p>
-<blockquote>
-<p>使用中科大、阿里云等国内镜像的时候，一直报错：<br><code>Warning: &#39;https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/&#39; already in &#39;channels&#39; list, moving to the top</code></p>
-</blockquote>
-<p>无奈我只能自己下载了</p>
-<p><a href="https://download.pytorch.org/whl/torch_stable.html" target="_blank" rel="noopener">pytorch下载链接</a> &lt;———点击这里进入网站</p>
-<p><img src="https://img-blog.csdnimg.cn/20200316185114665.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
-<a id="more"></a>
-<h2 id="下载方法："><a href="#下载方法：" class="headerlink" title="下载方法："></a>下载方法：</h2><p>我需要下载两个文件： <code>torch-1.4</code> 和 <code>torchvision-0.4</code></p>
-<p><strong>torch 我选择</strong> <code>torch-1.4.0+cpu-cp36-cp36m-win_amd64.whl</code><br>（我的环境是 windows 下的 python3.6 ）<br><img src="https://img-blog.csdnimg.cn/20200316185343599.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
-<p><strong>torchvision 我选择：</strong>  <code>torchvision-0.4.2+cpu-cp36-cp36m-win_amd64.whl</code><br><img src="https://img-blog.csdnimg.cn/20200316185712114.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>这个 whl 后缀的文件迅雷应该不能下载，所以等待谷歌慢慢下载吧</p>
-<h2 id="安装："><a href="#安装：" class="headerlink" title="安装："></a>安装：</h2><p>进入环境：</p>
-<blockquote>
-<p>输入安装 torch 的命令：<br>pip install C:\Users\27511\Desktop\torch-1.4.0+cpu-cp36-cp36m-win_amd64.whl</p>
-</blockquote>
-<p><img src="https://img-blog.csdnimg.cn/20200316190046223.png" alt="在这里插入图片描述"></p>
-<blockquote>
-<p>输入安装 torchvision 的命令：<br>pip install C:\Users\27511\Desktop\torchvision-0.4.2+cpu-cp36-cp36m-win_amd64.whl</p>
-</blockquote>
-<p><img src="https://img-blog.csdnimg.cn/20200316190159196.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>这样就安装成功了。</p>
-<p>注意：版本不能乱下载，不然可能会安装不了</p>
-<p>如果有同学对本文方法不明白的可以评论联系我。</p>
-]]></content>
-      <categories>
-        <category>python</category>
-        <category>error&amp;库</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
-        <tag>error&amp;库</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>anaconda 配置 yolov3 环境</title>
     <url>/anaconda%20%E9%85%8D%E7%BD%AE%20yolov3%20%E7%8E%AF%E5%A2%83.html</url>
     <content><![CDATA[<h2 id="1、-使用清华镜像创建环境"><a href="#1、-使用清华镜像创建环境" class="headerlink" title="1、 使用清华镜像创建环境"></a>1、 使用清华镜像创建环境</h2><p>输入：</p>
@@ -919,6 +884,41 @@ Did you mean &#39;conda create&#39;?</code></p>
       <tags>
         <tag>python</tag>
         <tag>机器视觉</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>anaconda安装 pytorch——详解</title>
+    <url>/anaconda%E5%AE%89%E8%A3%85%20pytorch%E2%80%94%E2%80%94%E8%AF%A6%E8%A7%A3.html</url>
+    <content><![CDATA[<h2 id="事件前言："><a href="#事件前言：" class="headerlink" title="事件前言："></a>事件前言：</h2><p>今天凌晨2点多时清华镜像源还可以正常使用，但是刚刚我电脑却使用不了了</p>
+<blockquote>
+<p>使用中科大、阿里云等国内镜像的时候，一直报错：<br><code>Warning: &#39;https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/&#39; already in &#39;channels&#39; list, moving to the top</code></p>
+</blockquote>
+<p>无奈我只能自己下载了</p>
+<p><a href="https://download.pytorch.org/whl/torch_stable.html" target="_blank" rel="noopener">pytorch下载链接</a> &lt;———点击这里进入网站</p>
+<p><img src="https://img-blog.csdnimg.cn/20200316185114665.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+<a id="more"></a>
+<h2 id="下载方法："><a href="#下载方法：" class="headerlink" title="下载方法："></a>下载方法：</h2><p>我需要下载两个文件： <code>torch-1.4</code> 和 <code>torchvision-0.4</code></p>
+<p><strong>torch 我选择</strong> <code>torch-1.4.0+cpu-cp36-cp36m-win_amd64.whl</code><br>（我的环境是 windows 下的 python3.6 ）<br><img src="https://img-blog.csdnimg.cn/20200316185343599.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+<p><strong>torchvision 我选择：</strong>  <code>torchvision-0.4.2+cpu-cp36-cp36m-win_amd64.whl</code><br><img src="https://img-blog.csdnimg.cn/20200316185712114.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>这个 whl 后缀的文件迅雷应该不能下载，所以等待谷歌慢慢下载吧</p>
+<h2 id="安装："><a href="#安装：" class="headerlink" title="安装："></a>安装：</h2><p>进入环境：</p>
+<blockquote>
+<p>输入安装 torch 的命令：<br>pip install C:\Users\27511\Desktop\torch-1.4.0+cpu-cp36-cp36m-win_amd64.whl</p>
+</blockquote>
+<p><img src="https://img-blog.csdnimg.cn/20200316190046223.png" alt="在这里插入图片描述"></p>
+<blockquote>
+<p>输入安装 torchvision 的命令：<br>pip install C:\Users\27511\Desktop\torchvision-0.4.2+cpu-cp36-cp36m-win_amd64.whl</p>
+</blockquote>
+<p><img src="https://img-blog.csdnimg.cn/20200316190159196.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>这样就安装成功了。</p>
+<p>注意：版本不能乱下载，不然可能会安装不了</p>
+<p>如果有同学对本文方法不明白的可以评论联系我。</p>
+]]></content>
+      <categories>
+        <category>python</category>
+        <category>error&amp;库</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+        <tag>error&amp;库</tag>
       </tags>
   </entry>
   <entry>
@@ -1315,6 +1315,43 @@ Did you mean &#39;conda create&#39;?</code></p>
       </tags>
   </entry>
   <entry>
+    <title>怎么下载网页在线视频</title>
+    <url>/%E6%80%8E%E4%B9%88%E4%B8%8B%E8%BD%BD%E7%BD%91%E9%A1%B5%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91.html</url>
+    <content><![CDATA[<p>在线看视频多少会有些卡顿，所以就可以将视频先下载下来之后看</p>
+<p>但对我而言，大部分视频都是在线甚至很小众的</p>
+<p>单独拿B站等大型网站来说，我们可以使用“硕鼠”等</p>
+<p>复制需要下载的视频的链接，复制在这里就可以准备下载<br><img src="https://img-blog.csdnimg.cn/20200223233143492.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>但今天说的没有那么简单</p>
+<p>硕鼠这种软件毕竟可下载的网站数量有限</p>
+<p>像我今天遇到了无法用硕鼠直接下载的情况</p>
+<p>下面给大家详细介绍三种方法：</p>
+<p><strong>1、**</strong>拿谷歌浏览器来说，如果想下载视频，先要打开视频，打开开发者工具**<br><img src="https://img-blog.csdnimg.cn/20200223233748416.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>选择”Network“—&gt;”all“<br><img src="https://img-blog.csdnimg.cn/20200223233938512.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述">最好按F5刷新一下界面，不然可以会导致加载的视频不完整：</p>
+<p>在界面中找到 Time 框中的时间随着真实秒数在变化的文件，一般为所有现实的文件中时间最长，size 最大的文件，则这个文件就是我们想要的文件<br><img src="https://img-blog.csdnimg.cn/20200223234755761.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>右键该文件——选择”Open in new tab“,再右键另存为就可以了<br><img src="https://img-blog.csdnimg.cn/20200224100123975.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+<p>这是第一种比较简单的方法。</p>
+<p><strong>2、**</strong>打开视频，右键点击画面空白处 选择”查看网页源代码“，再Ctrl+F 打开查找窗口。**</p>
+<p>因为我一直在学习韩语，所以这里以某韩语教学视频为例<br><img src="https://img-blog.csdnimg.cn/20200223235957978.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>输入”url”,复制这些url后面的连接去迅雷直接搜索网站下载就ok了。<br><img src="https://img-blog.csdnimg.cn/20200224000136299.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><strong>3、**</strong>这个方法就比较小众了，因为很多视频不会出现这种情况**</p>
+<p>有的视频的开发者工具打开后发现全部都是ts后缀的文件</p>
+<p>列表显示的都是分割过的文件，保存下来也只是1段1段的<br><img src="https://img-blog.csdnimg.cn/20200224000803175.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>所以这时候就需要找到这些 ts 后缀的文件的缓存地址了</p>
+<p>打开新的标签页输入“chrome://version/”</p>
+<p>就可以知道这些 mp2t 文件被保存的位置<br><img src="https://img-blog.csdnimg.cn/20200224001554297.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>现在我为了接下来述说简单点，我把刚刚</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">C:\Users\<span class="number">27511</span>\AppData\Local\Google\Chrome\Application\chrome.exe</span><br></pre></td></tr></table></figure>
+<p>这个路径下的 mp2t 文件全部移到新的文件夹，名字就叫 CSDN<br>我再建立一个新的文件夹，名字叫 CSDN2，两个文件夹都放在名为1的文件夹下面</p>
+<p>那么现在按win+R 输入 cmd 打开窗口输入：</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">copy /b  D:\<span class="number">1</span>\CSDN D:\<span class="number">1</span>\CSDN2\<span class="keyword">new</span>.mp4</span><br><span class="line">%copy /b  C:\f\  D:\f\<span class="keyword">new</span>.ts</span><br><span class="line">%copy /b不能动</span><br><span class="line">%C：\f\ 是缓存的mp2y文件的位置</span><br><span class="line">%D：\f\是将mp2y合并后储存的位置</span><br><span class="line">%<span class="keyword">new</span>是文件名，ts是文件后缀</span><br></pre></td></tr></table></figure>
+<p>给大家看一下CSDN文件夹<br><img src="https://img-blog.csdnimg.cn/20200224004637895.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>现在在cmd中输入：</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">copy /b  D:\<span class="number">1</span>\CSDN D:\<span class="number">1</span>\CSDN2\<span class="keyword">new</span>.mp4</span><br><span class="line">%我这里保存为MP4格式，可以根据需要随意更改后缀</span><br></pre></td></tr></table></figure>
+<p><img src="https://img-blog.csdnimg.cn/202002240048274.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/20200224004856636.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>而我的CSDN2文件夹中就有了MP4格式的视频文件了</p>
+<p><img src="https://img-blog.csdnimg.cn/20200224005006426.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>这样就可以正常观看了。</p>
+<p>这几种方法均是我最近下载视频文件的终于到的可以解决问题的方法，基本所有的视频均可以解决。</p>
+<p>如有其他问题，可以联系我</p>
+]]></content>
+      <categories>
+        <category>win10</category>
+      </categories>
+      <tags>
+        <tag>win10</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>安装Mathtype后无法使用——已解决</title>
     <url>/%E5%AE%89%E8%A3%85Mathtype%E5%90%8E%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E2%80%94%E2%80%94%E5%B7%B2%E8%A7%A3%E5%86%B3.html</url>
     <content><![CDATA[<h2 id="事件背景："><a href="#事件背景：" class="headerlink" title="事件背景："></a>事件背景：</h2><blockquote>
@@ -1354,43 +1391,6 @@ Did you mean &#39;conda create&#39;?</code></p>
 <p>然后重启 word</p>
 <p>MathType 就可以正常使用了</p>
 <p><img src="https://img-blog.csdnimg.cn/20200406203406349.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
-]]></content>
-      <categories>
-        <category>win10</category>
-      </categories>
-      <tags>
-        <tag>win10</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>怎么下载网页在线视频</title>
-    <url>/%E6%80%8E%E4%B9%88%E4%B8%8B%E8%BD%BD%E7%BD%91%E9%A1%B5%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91.html</url>
-    <content><![CDATA[<p>在线看视频多少会有些卡顿，所以就可以将视频先下载下来之后看</p>
-<p>但对我而言，大部分视频都是在线甚至很小众的</p>
-<p>单独拿B站等大型网站来说，我们可以使用“硕鼠”等</p>
-<p>复制需要下载的视频的链接，复制在这里就可以准备下载<br><img src="https://img-blog.csdnimg.cn/20200223233143492.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>但今天说的没有那么简单</p>
-<p>硕鼠这种软件毕竟可下载的网站数量有限</p>
-<p>像我今天遇到了无法用硕鼠直接下载的情况</p>
-<p>下面给大家详细介绍三种方法：</p>
-<p><strong>1、**</strong>拿谷歌浏览器来说，如果想下载视频，先要打开视频，打开开发者工具**<br><img src="https://img-blog.csdnimg.cn/20200223233748416.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>选择”Network“—&gt;”all“<br><img src="https://img-blog.csdnimg.cn/20200223233938512.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述">最好按F5刷新一下界面，不然可以会导致加载的视频不完整：</p>
-<p>在界面中找到 Time 框中的时间随着真实秒数在变化的文件，一般为所有现实的文件中时间最长，size 最大的文件，则这个文件就是我们想要的文件<br><img src="https://img-blog.csdnimg.cn/20200223234755761.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>右键该文件——选择”Open in new tab“,再右键另存为就可以了<br><img src="https://img-blog.csdnimg.cn/20200224100123975.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
-<p>这是第一种比较简单的方法。</p>
-<p><strong>2、**</strong>打开视频，右键点击画面空白处 选择”查看网页源代码“，再Ctrl+F 打开查找窗口。**</p>
-<p>因为我一直在学习韩语，所以这里以某韩语教学视频为例<br><img src="https://img-blog.csdnimg.cn/20200223235957978.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>输入”url”,复制这些url后面的连接去迅雷直接搜索网站下载就ok了。<br><img src="https://img-blog.csdnimg.cn/20200224000136299.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><strong>3、**</strong>这个方法就比较小众了，因为很多视频不会出现这种情况**</p>
-<p>有的视频的开发者工具打开后发现全部都是ts后缀的文件</p>
-<p>列表显示的都是分割过的文件，保存下来也只是1段1段的<br><img src="https://img-blog.csdnimg.cn/20200224000803175.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>所以这时候就需要找到这些 ts 后缀的文件的缓存地址了</p>
-<p>打开新的标签页输入“chrome://version/”</p>
-<p>就可以知道这些 mp2t 文件被保存的位置<br><img src="https://img-blog.csdnimg.cn/20200224001554297.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>现在我为了接下来述说简单点，我把刚刚</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">C:\Users\<span class="number">27511</span>\AppData\Local\Google\Chrome\Application\chrome.exe</span><br></pre></td></tr></table></figure>
-<p>这个路径下的 mp2t 文件全部移到新的文件夹，名字就叫 CSDN<br>我再建立一个新的文件夹，名字叫 CSDN2，两个文件夹都放在名为1的文件夹下面</p>
-<p>那么现在按win+R 输入 cmd 打开窗口输入：</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">copy /b  D:\<span class="number">1</span>\CSDN D:\<span class="number">1</span>\CSDN2\<span class="keyword">new</span>.mp4</span><br><span class="line">%copy /b  C:\f\  D:\f\<span class="keyword">new</span>.ts</span><br><span class="line">%copy /b不能动</span><br><span class="line">%C：\f\ 是缓存的mp2y文件的位置</span><br><span class="line">%D：\f\是将mp2y合并后储存的位置</span><br><span class="line">%<span class="keyword">new</span>是文件名，ts是文件后缀</span><br></pre></td></tr></table></figure>
-<p>给大家看一下CSDN文件夹<br><img src="https://img-blog.csdnimg.cn/20200224004637895.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>现在在cmd中输入：</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">copy /b  D:\<span class="number">1</span>\CSDN D:\<span class="number">1</span>\CSDN2\<span class="keyword">new</span>.mp4</span><br><span class="line">%我这里保存为MP4格式，可以根据需要随意更改后缀</span><br></pre></td></tr></table></figure>
-<p><img src="https://img-blog.csdnimg.cn/202002240048274.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/20200224004856636.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>而我的CSDN2文件夹中就有了MP4格式的视频文件了</p>
-<p><img src="https://img-blog.csdnimg.cn/20200224005006426.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTA0MTE5,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>这样就可以正常观看了。</p>
-<p>这几种方法均是我最近下载视频文件的终于到的可以解决问题的方法，基本所有的视频均可以解决。</p>
-<p>如有其他问题，可以联系我</p>
 ]]></content>
       <categories>
         <category>win10</category>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://squansh.top/"/>
-  <updated>2020-07-08T02:54:42.566Z</updated>
+  <updated>2020-07-16T12:35:19.473Z</updated>
   <id>https://squansh.top/</id>
   
   <author>
@@ -17,26 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>人头录音原理及解释</title>
+    <title>第一篇文章</title>
     <link href="https://squansh.top/%E4%BA%BA%E5%A4%B4%E5%BD%95%E9%9F%B3%E5%8E%9F%E7%90%86%E5%8F%8A%E8%A7%A3%E9%87%8A.html"/>
     <id>https://squansh.top/%E4%BA%BA%E5%A4%B4%E5%BD%95%E9%9F%B3%E5%8E%9F%E7%90%86%E5%8F%8A%E8%A7%A3%E9%87%8A.html</id>
     <published>2020-06-17T11:45:22.000Z</published>
-    <updated>2020-07-08T02:54:42.566Z</updated>
+    <updated>2020-07-16T12:35:19.473Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;简介：&lt;/p&gt;
-&lt;p&gt;本文简单介绍了环绕声基础知识，还介绍了各种双声道虚拟环绕声（多声道）的技术。最近突然对虚拟环绕声感兴趣，整理了一下相关知识。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;何为环绕声&lt;br&gt;普通的立体声只能分清左右两个方向的声音，而环绕声还能让人声音的前后左右各个方位，更有空间感仿佛置身于现场。常见的环绕声主要有 5.1 声道与 7.1 声道两种，要重现环绕声也相应的需要 6 个或者 8 个音箱。
+      
+      
+        
+        
+          &lt;p&gt;第一篇文章&lt;/p&gt;
+
+        
+      
     
     </summary>
     
     
-      <category term="硬件" scheme="https://squansh.top/categories/%E7%A1%AC%E4%BB%B6/"/>
+      <category term="first" scheme="https://squansh.top/categories/first/"/>
     
     
-      <category term="硬件" scheme="https://squansh.top/tags/%E7%A1%AC%E4%BB%B6/"/>
+      <category term="first" scheme="https://squansh.top/tags/first/"/>
     
   </entry>
   
